@@ -1,3 +1,41 @@
-body{
-    font-family:'Playfair Display', serif;
+body {
+    font-family: 'Playfair Display', serif;
 }
+
+.breaksmall {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/*quotes*/
+
+.spacer {
+    background-color: rgba(239, 165, 165, 0.5);
+}
+
+.text-uppercase {
+    text-align: center;
+}
+
+.mr {
+    margin-right: 25px;
+}
+
+#quoteimage {
+    vertical-align: middle;
+    border-style: none;
+    margin-left: 25px;
+    margin-bottom: 25px
+}
+
+.margin-spacer {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.blockquote-modify {
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
+
+.quote-break {}
